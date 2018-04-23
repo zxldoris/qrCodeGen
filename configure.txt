@@ -1,0 +1,2 @@
+QR-Prefix="pipilong"
+CurrentPrinter="Canon MG2500 series Printer"
